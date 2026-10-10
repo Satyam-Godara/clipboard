@@ -2,7 +2,7 @@
 import { useState, useEffect, useRef } from "react";
 import "./App.css";
 
-const API = "http://localhost:3000";
+const API = "http://161.118.176.127:5000";
 
 function App() {
   const [code, setCode] = useState("");
