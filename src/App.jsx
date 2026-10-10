@@ -2,7 +2,7 @@
 import { useState, useEffect, useRef } from "react";
 import "./App.css";
 
-const API = "https://161.118.176.127:5000";
+const API = "https://clipboard.godara.work.gd";
 
 function App() {
   const [code, setCode] = useState("");
